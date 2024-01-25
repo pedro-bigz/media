@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'driver' => 'session',
+    'driver' => 'jwt',
     'provider' => 'admin_users',
 ];

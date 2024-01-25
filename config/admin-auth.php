@@ -8,5 +8,5 @@ return [
     |
     */
 
-    'guard' => 'admin',
+    'guard' => 'api',
 ];
